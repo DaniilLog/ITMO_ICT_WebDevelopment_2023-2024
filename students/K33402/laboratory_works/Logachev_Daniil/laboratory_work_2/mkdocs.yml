@@ -1,0 +1,25 @@
+site_name: My Docs
+dev_addr: 127.0.0.1:8080
+
+nav:
+  - HTMLs:
+      -"AllGameResults": html/allgameresults.md
+      -"Base": html/base.md
+      -"comments": html/comments.md
+      -"Login": html/login.md
+      -"Profile": html/profile.md
+      -"GameDetails": html/game_detail.md
+      -"GamerRegistration": html/gamerregistration.md
+      -"Register": html/register.md
+      -"Tablo": html/tablo.md
+      -"UserRegistration": html/userregistration.md
+
+  - Main:
+      - "CustomFilters": customfilters.md
+      - "Admin": admin.md
+      - "Apps": apps.md
+      - "Forms": forms.md
+      - "Models": models.md
+      - "Urls": urls.md
+      - "Views": views.md
+

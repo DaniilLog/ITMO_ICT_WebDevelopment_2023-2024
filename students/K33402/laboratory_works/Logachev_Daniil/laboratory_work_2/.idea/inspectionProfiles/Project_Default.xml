@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.db.models.fields.related.OneToOneField.*" />
+          <option value="django.db.models.fields.related.ForeignKey.*" />
+          <option value="conferences.models.Conference.*" />
+          <option value="conferences.forms.UserRegistrationForm.*" />
+          <option value="conferences.models.Registration.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
