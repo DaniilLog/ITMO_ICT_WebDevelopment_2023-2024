@@ -1,0 +1,31 @@
+site_name: Library
+
+nav:
+  - Api:
+      - "authorization": auth/users.md
+      - "token authorization": auth/token.md
+      
+      - "books list": books/list.md
+      - "books info": books/info.md
+      - "books update": books/update.md
+      - "books create": books/create.md
+        
+      - "halls list": halls/list.md
+      - "halls info": halls/info.md
+      - "halls update": halls/update.md
+      - "halls create": halls/create.md
+        
+      - "copys list": copys/list.md
+      - "copys info": copys/info.md
+      - "copys update": copys/update.md
+      - "copys create": copys/create.md
+        
+      - "readers list": readers/list.md
+      - "readers info": readers/info.md
+      - "readers update": readers/update.md
+      - "readers create": readers/create.md
+
+      - "assignments list": assignments/list.md
+      - "assignments info": assignments/info.md
+      - "assignments update": assignments/update.md
+      - "assignments create": assignments/create.md
